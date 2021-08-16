@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplaySomeText", "DisplaySomeText\DisplaySomeText.csproj", "{D5A25F3D-9662-4E33-A126-3708DE1DBB1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordKeystrokes", "RecordKeystrokes\RecordKeystrokes.csproj", "{76843E58-C1E5-483A-B482-74F1D731E9D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowMyFace", "ShowMyFace\ShowMyFace.csproj", "{DE051B53-6AD1-48DD-9C75-60644214CF02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeAnEllipse", "ShapeAnEllipse\ShapeAnEllipse.csproj", "{FA982E5D-F4AE-427C-96F9-D2B40C2D08AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatTheText", "FormatTheText\FormatTheText.csproj", "{C0AA5DF6-8E25-4172-A8C4-038BAC5FAAAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToggleBoldAndItalic", "ToggleBoldAndItalic\ToggleBoldAndItalic.csproj", "{38C9E624-862B-4393-A50D-5CD10185D8D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderTheGraphic", "RenderTheGraphic\RenderTheGraphic.csproj", "{585EA3C1-DFD6-4DBD-A25D-7E0E48381C23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5A25F3D-9662-4E33-A126-3708DE1DBB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A25F3D-9662-4E33-A126-3708DE1DBB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A25F3D-9662-4E33-A126-3708DE1DBB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A25F3D-9662-4E33-A126-3708DE1DBB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76843E58-C1E5-483A-B482-74F1D731E9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76843E58-C1E5-483A-B482-74F1D731E9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76843E58-C1E5-483A-B482-74F1D731E9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76843E58-C1E5-483A-B482-74F1D731E9D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE051B53-6AD1-48DD-9C75-60644214CF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE051B53-6AD1-48DD-9C75-60644214CF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE051B53-6AD1-48DD-9C75-60644214CF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE051B53-6AD1-48DD-9C75-60644214CF02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA982E5D-F4AE-427C-96F9-D2B40C2D08AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA982E5D-F4AE-427C-96F9-D2B40C2D08AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA982E5D-F4AE-427C-96F9-D2B40C2D08AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA982E5D-F4AE-427C-96F9-D2B40C2D08AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0AA5DF6-8E25-4172-A8C4-038BAC5FAAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0AA5DF6-8E25-4172-A8C4-038BAC5FAAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0AA5DF6-8E25-4172-A8C4-038BAC5FAAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0AA5DF6-8E25-4172-A8C4-038BAC5FAAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C9E624-862B-4393-A50D-5CD10185D8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C9E624-862B-4393-A50D-5CD10185D8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C9E624-862B-4393-A50D-5CD10185D8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C9E624-862B-4393-A50D-5CD10185D8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{585EA3C1-DFD6-4DBD-A25D-7E0E48381C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585EA3C1-DFD6-4DBD-A25D-7E0E48381C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585EA3C1-DFD6-4DBD-A25D-7E0E48381C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585EA3C1-DFD6-4DBD-A25D-7E0E48381C23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D2F33B3-B559-4936-8B1F-19560188BB84}
+	EndGlobalSection
+EndGlobal
