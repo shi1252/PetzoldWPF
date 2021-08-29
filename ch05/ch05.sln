@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackTenButtons", "StackTenButtons\StackTenButtons.csproj", "{385C7E6A-697A-4BB5-BDB5-1C8EB9208515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackThirtyButtons", "StackThirtyButtons\StackThirtyButtons.csproj", "{143BB533-9D4A-48CE-8322-3E8714B1575A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollFiftyButtons", "ScrollFiftyButtons\ScrollFiftyButtons.csproj", "{73B13853-D1FD-4B56-88B6-5045439B6D9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignAButton", "DesignAButton\DesignAButton.csproj", "{033A3216-7C18-43F3-A7DF-569D0A7A172E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuneTheRadio", "TuneTheRadio\TuneTheRadio.csproj", "{2F7C2224-A2A1-4A25-99F3-1B55692E6A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExploreDirectories", "ExploreDirectories\ExploreDirectories.csproj", "{8FAD6B7C-86C7-4F32-9564-424D72AAE315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{385C7E6A-697A-4BB5-BDB5-1C8EB9208515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385C7E6A-697A-4BB5-BDB5-1C8EB9208515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385C7E6A-697A-4BB5-BDB5-1C8EB9208515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385C7E6A-697A-4BB5-BDB5-1C8EB9208515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{143BB533-9D4A-48CE-8322-3E8714B1575A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143BB533-9D4A-48CE-8322-3E8714B1575A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143BB533-9D4A-48CE-8322-3E8714B1575A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143BB533-9D4A-48CE-8322-3E8714B1575A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B13853-D1FD-4B56-88B6-5045439B6D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B13853-D1FD-4B56-88B6-5045439B6D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B13853-D1FD-4B56-88B6-5045439B6D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B13853-D1FD-4B56-88B6-5045439B6D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033A3216-7C18-43F3-A7DF-569D0A7A172E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033A3216-7C18-43F3-A7DF-569D0A7A172E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033A3216-7C18-43F3-A7DF-569D0A7A172E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033A3216-7C18-43F3-A7DF-569D0A7A172E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F7C2224-A2A1-4A25-99F3-1B55692E6A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7C2224-A2A1-4A25-99F3-1B55692E6A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7C2224-A2A1-4A25-99F3-1B55692E6A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7C2224-A2A1-4A25-99F3-1B55692E6A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FAD6B7C-86C7-4F32-9564-424D72AAE315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAD6B7C-86C7-4F32-9564-424D72AAE315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAD6B7C-86C7-4F32-9564-424D72AAE315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAD6B7C-86C7-4F32-9564-424D72AAE315}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67F32020-2AE8-443D-B212-758C7C36DE83}
+	EndGlobalSection
+EndGlobal
